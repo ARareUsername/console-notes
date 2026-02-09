@@ -9,8 +9,6 @@ This is a **menu-driven console application** for managing notes with various ca
 
 ---
 
-## HOW THIS MEETS PROJECT REQUIREMENTS
-
 ### Console Application
 - **100% console-based** using Scanner for input and System.out for output
 - Menu-driven interface with numbered options
